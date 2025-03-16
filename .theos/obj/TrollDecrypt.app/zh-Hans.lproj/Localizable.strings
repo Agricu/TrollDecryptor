@@ -1,0 +1,63 @@
+"DECRYPTED_IPAS" = "已砸壳文件";
+"REFRESH_BUTTON" = "刷新";
+"BACK_BUTTON" = "返回";
+"FILE_SIZE_FORMAT" = "%.2f MB";
+"DELETE_ACTION" = "删除";
+"FILE_ACTIONS_TITLE" = "文件操作";
+"SHARE_ACTION" = "分享";
+"CONVERT_TO_TIPA" = "转为 tipa 格式";
+"CONVERT_TO_IPA" = "转为 ipa 格式";
+"CANCEL_ACTION" = "取消";
+"OK_BUTTON" = "确定";
+"ERROR_FORMAT" = "错误：%@";
+"FILE_EXISTS_TITLE" = "文件已存在";
+"FILE_EXISTS_MSG" = "是否覆盖已有文件？";
+"OVERWRITE_ACTION" = "覆盖";
+/* Application information */
+"ABOUT_TITLE" = "TrollDecrypt";
+"ABOUT_MESSAGE" = "作者：fiore\n图标设计：@super.user\nbfdecrypt 由 @bishopfox 开发\ndumpdecrypted 由 @i0n1c 开发\nTrollStore 适配更新：@wh1te4ever";
+"SEARCH_PLACEHOLDER" = "搜索应用";
+"APP_LIST_TITLE" = "应用列表";
+"DATA_LOADING" = "加载中...";
+"DATA_CORRUPTED" = "数据异常";
+"DECRYPT_TITLE" = "解密操作";
+"DECRYPT_PROMPT" = "确认要解密 %@ 吗？";
+"CANCEL" = "取消";
+"CONFIRM" = "确认";
+"ABOUT_TITLE" = "关于";
+"DISMISS" = "关闭";
+
+/* Common buttons */
+"DISMISS_BUTTON" = "关闭";
+"CANCEL_BUTTON" = "取消";
+"CONFIRM_BUTTON" = "确定";
+
+/* Version information */
+"VERSION_FORMAT" = "版本号: %@";
+"BUNDLE_ID_FORMAT" = "标识符: %@";
+
+/* Decrypt dialog */
+"DECRYPT_TITLE" = "解密";
+"SEARCH_PLACEHOLDER" = "搜索应用";
+
+/* 通用按钮 */
+"OK_BUTTON" = "确定";
+"CANCEL_BUTTON" = "取消";
+"CONFIRM_BUTTON" = "是";
+"SHOW_IN_FILZA" = "在Filza中查看";
+
+/* 错误信息 */
+"ERROR_TITLE" = "错误: %@";
+"ERROR_PID_FAILED" = "无法获取二进制文件 %@ 的进程PID";
+"ERROR_DUMP_INSTANCE" = "无法创建DumpDecrypted实例";
+"ERROR_DIR_CREATE" = "创建目录失败: %@";
+"ERROR_BUNDLEID_MESSAGE" = "无法获取进程 %d 的包标识符";
+"ERROR_PROXY_MESSAGE" = "无法获取 %@ 的应用代理信息";
+
+/* 流程提示 */
+"DECRYPTING_TITLE" = "解密中";
+"DECRYPTING_MESSAGE" = "请稍候，操作可能需要几秒钟...";
+"DECRYPT_COMPLETE_TITLE" = "解密完成!";
+"DECRYPT_COMPLETE_MESSAGE" = "IPA文件已保存至:\n%@";
+"DECRYPT_TITLE" = "解密";
+"DECRYPT_CONFIRM" = "确定要解密 %@ 吗？";
